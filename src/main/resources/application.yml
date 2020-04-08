@@ -1,0 +1,8 @@
+server:
+  port: 8080
+swagger:
+  enabled: true
+  title: API\u5F00\u53D1\u6587\u6863\u63A5\u53E3\u89C4\u8303
+  description: api_\u6587\u6863
+  base-package: com.example.swagger_ui
+  version: 0.0.1
